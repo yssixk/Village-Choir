@@ -8,13 +8,13 @@ Villager Choir brings your villages to life: nearby villagers gather in a circle
 
 ## ✨ Features
 
-- 🎵 **Spontaneous performances** – Villagers can start singing on their own based on configurable chance and cooldown.
-- 🔵 **Circle formation** – Choir members walk into a circle around the singer before the song begins.
-- 🖥️ **In-game GUI** – Open the control screen to start/stop performances and tweak settings live.
-- ⌨️ **Commands** – Full command control with `/villagerchoir` (see below).
-- 🎼 **Custom songs** – Drop your own `.ogg` files into the custom songs folder and they become available songs.
-- 🌐 **Client-side config sync** – Settings from the GUI are synced to the server session.
-- 🐞 **Debug mode** – Optional debug logging and a debug circle visualization to tune formation.
+-  **Spontaneous performances** – Villagers can start singing on their own based on configurable chance and cooldown.
+-  **Circle formation** – Choir members walk into a circle around the singer before the song begins.
+-  **In-game GUI** – Open the control screen to start/stop performances and tweak settings live.
+-  **Commands** – Full command control with `/villagerchoir` (see below).
+-  **Custom songs** – Drop your own `.ogg` files into the custom songs folder and they become available songs.
+-  **Client-side config sync** – Settings from the GUI are synced to the server session.
+-  **Debug mode** – Optional debug logging and a debug circle visualization to tune formation.
 
 ---
 
