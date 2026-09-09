@@ -1,0 +1,12 @@
+# Freebuff agent workspace
+.freebuff/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+.gitignore
